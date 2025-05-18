@@ -1,0 +1,27 @@
+emp_id:
+  type: integer
+  required: true
+  unique: true
+
+name:
+  type: string
+  required: true
+
+dept:
+  type: string
+  required: true
+
+hire_date:
+  type: date
+  format: "%Y-%m-%d"
+  required: true
+
+salary:
+  type: number
+  minimum: 0
+  required: true
+
+email:
+  type: string
+  pattern: "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+  required: false
