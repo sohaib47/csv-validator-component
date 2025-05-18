@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: csv-validator-component
+Version: 0.1.0
+Summary: Declarative CSV Validator with CLI and reports
+Home-page: https://github.com/YourUsername/csv-validator-component
+Author: Your Name
+Author-email: you@example.com
+Requires-Python: >=3.8
+Requires-Dist: pandas
+Requires-Dist: PyYAML
+Requires-Dist: click
+Requires-Dist: jinja2
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

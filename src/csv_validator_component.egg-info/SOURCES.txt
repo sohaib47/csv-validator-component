@@ -1,0 +1,15 @@
+pyproject.toml
+setup.py
+src/csv_validator/__init__.py
+src/csv_validator/cli.py
+src/csv_validator/reporter.py
+src/csv_validator/rules.py
+src/csv_validator/schema_loader.py
+src/csv_validator/validator.py
+src/csv_validator_component.egg-info/PKG-INFO
+src/csv_validator_component.egg-info/SOURCES.txt
+src/csv_validator_component.egg-info/dependency_links.txt
+src/csv_validator_component.egg-info/entry_points.txt
+src/csv_validator_component.egg-info/requires.txt
+src/csv_validator_component.egg-info/top_level.txt
+tests/test_validator.py
