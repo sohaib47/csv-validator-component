@@ -7,7 +7,7 @@ A schema-driven CSV validation CLI that produces both HTML and JSON error report
 
 Install from PyPI in one step:
 
-bash
+
 pip install csv-validator-component
 
 
